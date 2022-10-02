@@ -2,7 +2,7 @@
 
 🚀 Conheça a Go Live Tech: http://www.golivetech.com.br 
 
-Participe da maior comunidade de robotização do Brasil, RPA & IA Brasil by Go Live Tech: t.me/rpaeiabrasil 
+Participe da maior comunidade de robotização do Brasil, RPA & IA Brasil by Go Live Tech: [t.me/rpaeiabrasil ](http://t.me/rpaeiabrasil)
  
 Siga nossas redes sociais:
 
