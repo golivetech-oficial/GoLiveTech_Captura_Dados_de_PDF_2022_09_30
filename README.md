@@ -1,5 +1,7 @@
 # GoLiveTech_Captura_Dados_de_PDF_2022_09_30
 
+Vídeo explicativo deste projeto: https://youtu.be/P9h50M48TLc
+
 🚀 Conheça a Go Live Tech: http://www.golivetech.com.br 
 
 Participe da maior comunidade de robotização do Brasil, RPA & IA Brasil by Go Live Tech: [t.me/rpaeiabrasil ](http://t.me/rpaeiabrasil)
